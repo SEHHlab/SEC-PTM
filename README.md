@@ -1,2 +1,2 @@
 # SEC-PTM
-A stochastic model to simulate the influence of two types eddies (attached eddy and detached eddy). This is a model that use the of the eddy constrained random walk (ECRW) developed by Rast et al (2016) to simulate influence of two types eddies on particle in open channel flow. 
+This is a stochastic model that conbime the eddy constrained random walk (ECRW) developed by Rast et al (2016) and the stochastic particle tracking model to simulate influence of two types eddies (attached eddy and detached eddy) on suspended particle in open channel flow. 
